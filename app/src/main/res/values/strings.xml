@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_12</string>
+    <string name="latitude_string">Latitute</string>
+    <string name="longitude_string">Longitude</string>
+</resources>
